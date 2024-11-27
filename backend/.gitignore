@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# Logs and runtime files
+*.log
+*.pot
+*.py~
+*.sqlite3
+*.pkl
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Testing and coverage results
+.coverage
+.tox/
+.nox/
+.cache/
+*.cover
+coverage.xml
+*.lcov
+
+# Static and media folders (if not managed by Git)
+staticfiles/
+media/
+
+# Pip files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variable files
+.env
+*.env
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Documentation artifacts
+docs/_build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other Python-related files
+.pytest_cache/
